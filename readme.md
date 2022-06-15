@@ -2,7 +2,7 @@
 <img align='right' src="http://assets.stickpng.com/thumbs/5c80f66d72f5d9028c17ed1b.png" width="230">
 <p><em>Romania <img src="https://acegif.com/wp-content/uploads/romanian-flag.gif" width="30"></em></p>
 
-[![Discord: RealGames]https://img.shields.io/discord/917016356157800469?color=%230f5&label=RealGames%C2%B2&logo=discord&logoColor=%230f5)](https://discord.gg/EDg6HRUyhv)
+[![Discord: RealGames](https://img.shields.io/discord/917016356157800469?color=%230f5&label=RealGames%C2%B2&logo=discord&logoColor=%230f5)](https://discord.gg/EDg6HRUyhv)
 [![Website: realthedev.cf](https://img.shields.io/badge/website-realthedev.cf-%230f5)](https://realthedev.cf)
 
 
