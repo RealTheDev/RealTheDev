@@ -1,12 +1,12 @@
-<h2> Hi, I'm Real! <img src="http://assets.stickpng.com/thumbs/5c80f66d72f5d9028c17ed1b.png" width="50"></h2>
-<img align='right' src="http://assets.stickpng.com/thumbs/5c80f66d72f5d9028c17ed1b.png" width="230">
+<h2> Hi, I'm Real! <img src="https://cdn.discordapp.com/attachments/925043859220746331/986679158153285632/Jake_da_dog.png" width="50"></h2>
+<img align='right' src="https://cdn.discordapp.com/attachments/925043859220746331/986679158153285632/Jake_da_dog.png" width="230">
 <p><em>Romania <img src="https://acegif.com/wp-content/uploads/romanian-flag.gif" width="30"></em></p>
 
 [![Discord: RealGames](https://img.shields.io/discord/917016356157800469?color=%230f5&label=RealGames%C2%B2&logo=discord&logoColor=%230f5)](https://discord.gg/EDg6HRUyhv)
 [![Website: realthedev.cf](https://img.shields.io/badge/website-realthedev.cf-%230f5)](https://realthedev.cf)
 
 
-### <img src="http://assets.stickpng.com/thumbs/5c80f66d72f5d9028c17ed1b.png" width="50"> A little more about me... ✨  
+### <img src="https://cdn.discordapp.com/attachments/925043859220746331/986679158153285632/Jake_da_dog.png" width="50"> A little more about me... ✨  
 
 ```javascript
 const real = 
